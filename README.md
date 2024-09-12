@@ -1,7 +1,7 @@
 # The Role of Small Models
 [![PDF](https://img.shields.io/badge/PDF-2402.13116-green)](https://arxiv.org/abs/2409.06857)
 ![GitHub License](https://img.shields.io/github/license/tigerchen52/role_of_small_models)
-
+![](https://img.shields.io/badge/PRs-Welcome-red) 
 
 <!-- Big font size -->
 <h2 align="center">
@@ -23,3 +23,20 @@ What is the Role of Small Models in the LLM Era: A Survey
   <img src="imgs/collaboration.png" width="500"><br>
 </div>
 <br>
+
+This is a work in progress and feel free to reach out if you find we overlook some useful papers.
+
+## Citation
+
+
+```
+@misc{chen2024rolesmallmodelsllm,
+      title={What is the Role of Small Models in the LLM Era: A Survey}, 
+      author={Lihu Chen and Gaël Varoquaux},
+      year={2024},
+      eprint={2409.06857},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2409.06857}, 
+}
+``````
