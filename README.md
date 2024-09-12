@@ -20,6 +20,6 @@ What is the Role of Small Models in the LLM Era: A Survey
 <sup>2</sup>  Soda, Inria Saclay, France &nbsp&nbsp
 </p>
 <div align="center">
-  <img src="imgs/collaboration.png" width="700"><br>
+  <img src="imgs/collaboration.png" width="500"><br>
 </div>
 <br>
