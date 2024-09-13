@@ -24,7 +24,9 @@ What is the Role of Small Models in the LLM Era: A Survey
 </div>
 <br>
 
-This is a work in progress and feel free to reach out if you find we overlook some useful papers.
+This work is ongoing, and we welcome any comments or suggestions. 
+
+Please feel free to reach out if you find we have overlooked any relevant papers.
 
 ## Citation
 
