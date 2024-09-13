@@ -3,6 +3,10 @@
 ![GitHub License](https://img.shields.io/github/license/tigerchen52/role_of_small_models)
 ![](https://img.shields.io/badge/PRs-Welcome-red) 
 
+This work is ongoing, and we welcome any comments or suggestions. 
+
+Please feel free to reach out if you find we have overlooked any relevant papers.
+
 <!-- Big font size -->
 <h2 align="center">
 What is the Role of Small Models in the LLM Era: A Survey
@@ -24,9 +28,6 @@ What is the Role of Small Models in the LLM Era: A Survey
 </div>
 <br>
 
-This work is ongoing, and we welcome any comments or suggestions. 
-
-Please feel free to reach out if you find we have overlooked any relevant papers.
 
 ## Citation
 
