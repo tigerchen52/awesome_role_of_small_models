@@ -28,6 +28,8 @@ What is the Role of Small Models in the LLM Era: A Survey
 </div>
 <br>
 
+
+## Content List
 - [Collaboration](#collaboration)
   - [SMs Enhance LLMs](#sms-enhance-llms)
     - [Data Curation](#data-curation)
@@ -46,7 +48,6 @@ What is the Role of Small Models in the LLM Era: A Survey
     - [Deficiency Repair](#deficiency-repair)
       - [Developing SM plugins to repair deficiencies](#developing-sm-plugins-to-repair-deficiencies)
       - [Contrasting LLMs and SMs for better generations](#contrasting-llms-and-sms-for-better-generations)
-
   - [LLMs Enhance SMs](#llms-enhance-sms)
     - [Knowledge Distillation](#knowledge-distillation)
       - [Black-box Distillation](#black-box-distillation)
@@ -56,43 +57,102 @@ What is the Role of Small Models in the LLM Era: A Survey
       - [Training Data Generation](#training-data-generation)
 
 
-# Collaboration
+# Collaboration <a name="collaboration"></a>
 
-## SMs Enhance LLMs
+## SMs Enhance LLMs <a name="sms-enhance-llms"></a>
 
-### Data Curation
-#### Curating pre-training data
-#### Curating Instruction-tuning Data
+### Data Curation <a name="data-curation"></a>
 
-### Weak-to-Strong Paradigm
+#### Curating pre-training data: <a name="curating-pre-training-data"></a>
+- Data Selection [\[36\]](#36)
+- Data Reweighting [\[37\]](#37)
 
-### Efficient Inference
-#### Ensembling different-size models to reduce inference costs
-#### Speculative Decoding
+#### Curating Instruction-tuning Data <a name="curating-instruction-tuning-data"></a>
+- [\[35\]](#35)
 
-### Evaluating LLMs
+### Weak-to-Strong Paradigm <a name="weak-to-strong-paradigm"></a>
 
-### Domain Adaptation
-#### Using domain-specific SMs to generate knowledge for LLMs at reasoning time
-#### Using domain-specific SMs to adjust token probability of LLMs at decoding time
+#### Using weaker (smaller) models to align stronger (larger) models <a name="using-weaker-smaller-models-to-align-stronger-larger-models"></a>
+- [\[34\]](#34)
 
-### Retrieval Augmented Generation
+### Efficient Inference <a name="efficient-inference"></a>
 
-### Prompt-based Reasoning
+#### Ensembling different-size models to reduce inference costs: <a name="ensembling-different-size-models-to-reduce-inference-costs"></a>
+- Model Cascading [\[32\]](#32)
+- Model Routing [\[33\]](#33)
 
-### Deficiency Repair
-#### Developing SM plugins to repair deficiencies
-#### Contrasting LLMs and SMs for better generations
+#### Speculative Decoding <a name="speculative-decoding"></a>
+- [\[31\]](#31)
 
-## LLMs Enhance SMs
+### Evaluating LLMs <a name="evaluating-llms"></a>
 
-### Knowledge Distillation
-#### Black-box Distillation
-#### White-box distillation
+#### Using SMs to evaluate LLM's generations: <a name="using-sms-to-evaluate-llms-generations"></a>
+- General Evaluation [\[28\]](#28)
+- Uncertainty [\[29\]](#29)
+- Performance Prediction [\[30\]](#30)
 
-### Data Synthesis
-#### Data Augmentation
-#### Training Data Generation
+### Domain Adaptation <a name="domain-adaptation"></a>
+
+#### Using domain-specific SMs to adjust token probability of LLMs at decoding time <a name="using-domain-specific-sms-to-adjust-token-probability-of-llms-at-decoding-time"></a>
+- [\[26\]](#26)
+
+#### Using domain-specific SMs to generate knowledge for LLMs at reasoning time <a name="using-domain-specific-sms-to-generate-knowledge-for-llms-at-reasoning-time"></a>
+- [\[27\]](#27)
+
+### Retrieval Augmented Generation <a name="retrieval-augmented-generation"></a>
+
+#### Using SMs to retrieve knowledge for enhancing generations: <a name="using-sms-to-retrieve-knowledge-for-enhancing-generations"></a>
+- Documents [\[20\]](#20)
+- Knowledge Bases [\[21\]](#21)
+- Tables [\[22\]](#22)
+- Codes [\[23\]](#23)
+- Tools [\[24\]](#24)
+- Images [\[25\]](#25)
+
+### Prompt-based Reasoning <a name="prompt-based-reasoning"></a>
+
+#### Using SMs to augment prompts for LLMs: <a name="using-sms-to-augment-prompts-for-llms"></a>
+- Retrieving Prompts [\[16\]](#16)
+- Decomposing Complex Problems [\[17\]](#17)
+- Generating Pseudo Labels [\[18\]](#18)
+- Feedback [\[19\]](#19)
+
+### Deficiency Repair <a name="deficiency-repair"></a>
+
+#### Developing SM plugins to repair deficiencies: <a name="developing-sm-plugins-to-repair-deficiencies"></a>
+- Hallucinations [\[14\]](#14)
+- Out-Of-Vocabulary Words [\[15\]](#15)
+
+#### Contrasting LLMs and SMs for better generations: <a name="contrasting-llms-and-sms-for-better-generations"></a>
+- Reducing Repeated Texts [\[10\]](#10)
+- Mitigating Hallucinations [\[11\]](#11)
+- Augmenting Reasoning Capabilities [\[12\]](#12)
+- Safeguarding Privacy [\[13\]](#13)
+
+## LLMs Enhance SMs <a name="llms-enhance-sms"></a>
+
+### Knowledge Distillation <a name="knowledge-distillation"></a>
+
+#### Black-box Distillation: <a name="black-box-distillation"></a>
+- Chain-Of-Thought Distillation [\[8\]](#8)
+- Instruction Following Distillation [\[9\]](#9)
+
+#### White-box Distillation: <a name="white-box-distillation"></a>
+- Logits [\[6\]](#6)
+- Intermediate Features [\[7\]](#7)
+
+### Data Synthesis <a name="data-synthesis"></a>
+
+#### Data Augmentation: <a name="data-augmentation"></a>
+- Text Paraphrase [\[3\]](#3)
+- Query Rewriting [\[4\]](#4)
+- Specific Tasks [\[5\]](#5)
+
+#### Training Data Generation: <a name="training-data-generation"></a>
+- Label Annotation [\[1\]](#1)
+- Dataset Generation [\[2\]](#2)
+
+
 
 
 ## Citation
