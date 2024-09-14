@@ -55,7 +55,10 @@ What is the Role of Small Models in the LLM Era: A Survey
     - [Data Synthesis](#data-synthesis)
       - [Data Augmentation](#data-augmentation)
       - [Training Data Generation](#training-data-generation)
-
+- [Competition](#competition)
+  - [Computation-constrained Environment](#)
+  - [Task-specific Environment](#)
+  - [Interpretability-required Environment](#)
 
 # Collaboration <a name="collaboration"></a>
 
