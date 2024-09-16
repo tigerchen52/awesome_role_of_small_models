@@ -866,8 +866,91 @@ with Less Training Data and Smaller Model Sizes</td>
 
 
 #### Training Data Generation: <a name="training-data-generation"></a>
-- Label Annotation [\[1\]](#1)
-- Dataset Generation [\[2\]](#2)
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Topic</th>
+    <th>Venue</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td>Want To Reduce Labeling Cost? GPT-3 Can Help</td>
+    <td>Label Annotation</td>
+    <td><a href="https://aclanthology.org/2021.findings-emnlp.354/"> 
+      <img src="https://img.shields.io/badge/PDF-EMNLP 2021-10868" alt="PDF Badge">
+      </a></td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>Self-Guided Noise-Free Data Generation for Efficient Zero-Shot Learning</td>
+    <td>Label Annotation</td>
+    <td><a href="https://arxiv.org/abs/2205.12679"> 
+      <img src="https://img.shields.io/badge/PDF-ICLR 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>ZeroGen: Efficient Zero-shot Learning via Dataset Generation</td>
+    <td>Dataset Generation</td>
+    <td><a href="https://aclanthology.org/2022.emnlp-main.801/"> 
+      <img src="https://img.shields.io/badge/PDF-EMNLP 2022-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/HKUNLP/ZeroGen">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a></td>
+  </tr>
+  <tr>
+    <td>Generating Training Data with Language Models: Towards Zero-Shot Language Understanding</td>
+    <td>Dataset Generation</td>
+    <td><a href="https://arxiv.org/abs/2202.04538"> 
+      <img src="https://img.shields.io/badge/PDF-NeurIPS 2022-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/yumeng5/SuperGen">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a></td>
+  </tr>
+  <tr>
+    <td>Increasing Diversity While Maintaining Accuracy: Text Data Generation with Large Language Models and Human Interventions</td>
+    <td>Dataset Generation</td>
+    <td><a href="https://arxiv.org/abs/2306.04140"> 
+      <img src="https://img.shields.io/badge/PDF-ACL 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Synthetic Data Generation with Large Language Models for Text Classification: Potential and Limitations</td>
+    <td>Dataset Generation</td>
+    <td><a href="https://arxiv.org/abs/2310.07849"> 
+      <img src="https://img.shields.io/badge/PDF-EMNLP 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Does Synthetic Data Generation of LLMs Help Clinical Text Mining?</td>
+    <td>Dataset Generation</td>
+    <td><a href="https://arxiv.org/abs/2303.04360"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Exploiting Asymmetry for Synthetic Training Data Generation: SynthIE and the Case of Information Extraction</td>
+    <td>Dataset Generation</td>
+    <td><a href="https://arxiv.org/abs/2303.04132"> 
+      <img src="https://img.shields.io/badge/PDF-EMNLP 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/epfl-dlab/SynthIE">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a></td>
+  </tr>
+  <tr>
+    <td>ToxiGen: A Large-Scale Machine-Generated Dataset for Adversarial and Implicit Hate Speech Detection</td>
+    <td>Dataset Generation</td>
+    <td><a href="https://aclanthology.org/2022.acl-long.234/"> 
+      <img src="https://img.shields.io/badge/PDF-ACL 2022-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/microsoft/toxigen">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a></td>
+  </tr>
+</table>
+
 
 
 
