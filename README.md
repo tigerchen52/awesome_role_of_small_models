@@ -490,6 +490,23 @@ What is the Role of Small Models in the LLM Era: A Survey
     <td><a href="https://github.com/shuyanzhou/docprompting">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
   </tr>
+  <tr>
+    <td>Toolformer: Language Models Can Teach Themselves to Use Tools </td>
+    <td>Tools</td>
+    <td><a href="https://openreview.net/forum?id=Yacmpz84TH"> 
+      <img src="https://img.shields.io/badge/PDF-NeurIPS 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/conceptofmind/toolformer">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+  </tr>
+  <tr>
+    <td>Retrieval-Augmented Multimodal Language Modeling</td>
+    <td>Images</td>
+    <td><a href="https://arxiv.org/abs/2211.12561"> 
+      <img src="https://img.shields.io/badge/PDF-ICML 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td> </td>
+  </tr>
 </table>
 
 ### Prompt-based Reasoning <a name="prompt-based-reasoning"></a>
