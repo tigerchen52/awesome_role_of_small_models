@@ -805,9 +805,65 @@ with Less Training Data and Smaller Model Sizes</td>
 ### Data Synthesis <a name="data-synthesis"></a>
 
 #### Data Augmentation: <a name="data-augmentation"></a>
-- Text Paraphrase [\[3\]](#3)
-- Query Rewriting [\[4\]](#4)
-- Specific Tasks [\[5\]](#5)
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Topic</th>
+    <th>Venue</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td>Improving data augmentation for low resource speech-to-text translation with diverse paraphrasing</td>
+    <td>Text Paraphrase</td>
+    <td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0893608022000260"> 
+      <img src="https://img.shields.io/badge/PDF-NN 2022-10868" alt="PDF Badge">
+      </a></td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>Paraphrasing with Large Language Models</td>
+    <td>Text Paraphrase</td>
+    <td><a href="https://aclanthology.org/D19-5623/"> 
+      <img src="https://img.shields.io/badge/PDF-NGT 2019-10868" alt="PDF Badge">
+      </a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Query Rewriting for Retrieval-Augmented Large Language Models</td>
+    <td>Query Rewriting</td>
+    <td><a href="https://arxiv.org/abs/2305.14283"> 
+      <img src="https://img.shields.io/badge/PDF-EMNLP 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/xbmxb/RAG-query-rewriting">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a></td>
+  </tr>
+  <tr>
+    <td>LLMvsSmall Model? Large Language Model Based Text Augmentation Enhanced Personality Detection Model</td>
+    <td>Specific Tasks</td>
+    <td><a href="https://arxiv.org/abs/2403.07581"> 
+      <img src="https://img.shields.io/badge/PDF-NLP4ConvAI 2022-10868" alt="PDF Badge">
+      </a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Data Augmentation for Intent Classification with Off-the-shelf Large Language Models</td>
+    <td>Specific Tasks</td>
+    <td><a href="https://aclanthology.org/2022.nlp4convai-1.5/"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/ServiceNow/data-augmentation-with-llms">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a></td>
+  </tr>
+  <tr>
+    <td>Weakly Supervised Data Augmentation Through Prompting for Dialogue Understanding</td>
+    <td>Specific Tasks</td>
+    <td><a href="https://arxiv.org/abs/2210.14169"> 
+      <img src="https://img.shields.io/badge/PDF-SyntheticData4ML 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td></td>
+  </tr>
+</table>
+
 
 #### Training Data Generation: <a name="training-data-generation"></a>
 - Label Annotation [\[1\]](#1)
