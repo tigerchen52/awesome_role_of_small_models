@@ -12,7 +12,6 @@ Please feel free to reach out if you find we have overlooked any relevant papers
 What is the Role of Small Models in the LLM Era: A Survey
 </h2> 
 
-
 <p align="center">
     Lihu Chen<sup>1</sup>&nbsp&nbsp
     Gaël Varoquaux<sup>2</sup>&nbsp&nbsp
