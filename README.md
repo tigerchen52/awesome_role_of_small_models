@@ -235,14 +235,40 @@ What is the Role of Small Models in the LLM Era: A Survey
       </a></td>
     <td><a href="https://github.com/Anfeather/Data-Shunt">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
-  <tr>
-    <td>AutoMix: Automatically Mixing Language Models</td>
+</tr>
+<tr>
+<td>AutoMix: Automatically Mixing Language Models</td>
     <td>Model Cascading</td>
     <td><a href="https://arxiv.org/abs/2310.12963"> 
       <img src="https://img.shields.io/badge/PDF-arXiv 2023-10868" alt="PDF Badge">
       </a></td>
     <td><a href="https://github.com/automix-llm/automix">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+</tr>
+<tr>
+<td>Routing to the Expert: Efficient Reward-guided Ensemble of Large Language Models</td>
+    <td>Model Routing</td>
+    <td><a href="https://aclanthology.org/2024.naacl-long.109/"> 
+      <img src="https://img.shields.io/badge/PDF-NAACL 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td></td>
+</tr>
+<tr>
+<td>Tryage: Real-time, intelligent Routing of User Prompts to Large Language Models</td>
+    <td>Model Routing</td>
+    <td><a href="https://arxiv.org/abs/2308.11601"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td></td>
+</tr>
+<tr>
+<td>OrchestraLLM: Efficient Orchestration of Language Models for Dialogue State Tracking</td>
+    <td>Model Routing</td>
+    <td><a href="https://aclanthology.org/2024.naacl-long.79/"> 
+      <img src="https://img.shields.io/badge/PDF-NAACL 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td></td>
+</tr>
 </table>
 
 - Model Cascading [\[32\]](#32)
