@@ -62,6 +62,8 @@ What is the Role of Small Models in the LLM Era: A Survey
 # Collaboration <a name="collaboration"></a>
 
 ## SMs Enhance LLMs <a name="sms-enhance-llms"></a>
+<details>
+
 
 ### Data Curation <a name="data-curation"></a>
 
@@ -950,7 +952,7 @@ with Less Training Data and Smaller Model Sizes</td>
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a></td>
   </tr>
 </table>
-
+</details>
 
 
 
