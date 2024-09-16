@@ -505,7 +505,7 @@ What is the Role of Small Models in the LLM Era: A Survey
     <td><a href="https://arxiv.org/abs/2211.12561"> 
       <img src="https://img.shields.io/badge/PDF-ICML 2023-10868" alt="PDF Badge">
       </a></td>
-    <td> </td>
+    <td></td>
   </tr>
 </table>
 
@@ -613,10 +613,47 @@ What is the Role of Small Models in the LLM Era: A Survey
 </table>
 
 #### Contrasting LLMs and SMs for better generations: <a name="contrasting-llms-and-sms-for-better-generations"></a>
-- Reducing Repeated Texts [\[10\]](#10)
-- Mitigating Hallucinations [\[11\]](#11)
-- Augmenting Reasoning Capabilities [\[12\]](#12)
-- Safeguarding Privacy [\[13\]](#13)
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Topic</th>
+    <th>Venue</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td>Contrastive Decoding: Open-ended Text Generation as Optimization</td>
+    <td>Reducing Repeated Texts</td>
+    <td><a href="https://aclanthology.org/2023.acl-long.687/"> 
+      <img src="https://img.shields.io/badge/PDF-ACL 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td> <a href="https://github.com/XiangLi1999/ContrastiveDecoding">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+  </tr>
+  <tr>
+    <td>Alleviating Hallucinations of Large Language Models through Induced Hallucinations</td>
+    <td>Mitigating Hallucinations</td>
+    <td><a href="https://arxiv.org/abs/2312.15710"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Contrastive Decoding Improves Reasoning in Large Language Models</td>
+    <td>Augmenting Reasoning Capabilities</td>
+    <td><a href="https://arxiv.org/abs/2309.09117"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>CoGenesis: A Framework Collaborating Large and Small Language Models for Secure Context-Aware Instruction Following</td>
+    <td>Safeguarding Privacy</td>
+    <td><a href="https://arxiv.org/abs/2403.03129"> 
+      <img src="https://img.shields.io/badge/PDF-ACL 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td> </td>
+  </tr>
+</table>
 
 ## LLMs Enhance SMs <a name="llms-enhance-sms"></a>
 
