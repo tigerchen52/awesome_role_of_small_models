@@ -269,6 +269,24 @@ What is the Role of Small Models in the LLM Era: A Survey
       </a></td>
     <td></td>
 </tr>
+<tr>
+    <td>RouteLLM: Learning to Route LLMs with Preference Data</td>
+    <td>Model Routing</td>
+    <td><a href="https://arxiv.org/abs/2406.18665"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/lm-sys/RouteLLM">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+</tr>
+<tr>
+    <td>Fly-Swat or Cannon? Cost-Effective Language Model Choice via Meta-Modeling</td>
+    <td>Model Routing</td>
+    <td><a href="https://dl.acm.org/doi/10.1145/3616855.3635825"> 
+      <img src="https://img.shields.io/badge/PDF-WSDM 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/epfl-dlab/forc">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+</tr>
 </table>
 
 - Model Cascading [\[32\]](#32)
