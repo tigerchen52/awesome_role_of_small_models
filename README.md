@@ -133,6 +133,8 @@ What is the Role of Small Models in the LLM Era: A Survey
 </table>
 
 ### Weak-to-Strong Paradigm <a name="weak-to-strong-paradigm"></a>
+
+#### Using weaker (smaller) models to align stronger (larger) models <a name="using-weaker-smaller-models-to-align-stronger-larger-models"></a>
 <table>
   <tr>
     <th>Title</th>
@@ -198,12 +200,51 @@ What is the Role of Small Models in the LLM Era: A Survey
 </table>
 
 
-#### Using weaker (smaller) models to align stronger (larger) models <a name="using-weaker-smaller-models-to-align-stronger-larger-models"></a>
-- [\[34\]](#34)
-
 ### Efficient Inference <a name="efficient-inference"></a>
 
-#### Ensembling different-size models to reduce inference costs: <a name="ensembling-different-size-models-to-reduce-inference-costs"></a>
+#### Ensembling different-size models to reduce inference costs <a name="ensembling-different-size-models-to-reduce-inference-costs"></a>
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Topic</th>
+    <th>Venue</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td>Efficient Edge Inference by Selective Query</td>
+    <td>Model Cascading</td>
+    <td><a href="https://openreview.net/forum?id=jpR98ZdIm2q"> 
+      <img src="https://img.shields.io/badge/PDF-ICLR 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/anilkagak2/Hybrid_Models">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+  </tr>
+  <tr>
+    <td>FrugalGPT: How to Use Large Language Models While Reducing Cost and Improving Performance</td>
+    <td>Model Cascading</td>
+    <td><a href="https://arxiv.org/abs/2305.05176"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>Data Shunt: Collaboration of Small and Large Models for Lower Costs and Better Performance</td>
+    <td>Model Cascading</td>
+    <td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/29003"> 
+      <img src="https://img.shields.io/badge/PDF-AAAI 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/Anfeather/Data-Shunt">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+  <tr>
+    <td>AutoMix: Automatically Mixing Language Models</td>
+    <td>Model Cascading</td>
+    <td><a href="https://arxiv.org/abs/2310.12963"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/automix-llm/automix">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+</table>
+
 - Model Cascading [\[32\]](#32)
 - Model Routing [\[33\]](#33)
 
