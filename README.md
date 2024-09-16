@@ -328,10 +328,42 @@ What is the Role of Small Models in the LLM Era: A Survey
 
 ### Evaluating LLMs <a name="evaluating-llms"></a>
 
-#### Using SMs to evaluate LLM's generations: <a name="using-sms-to-evaluate-llms-generations"></a>
-- General Evaluation [\[28\]](#28)
-- Uncertainty [\[29\]](#29)
-- Performance Prediction [\[30\]](#30)
+#### Using SMs to evaluate LLM's generations <a name="using-sms-to-evaluate-llms-generations"></a>
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Topic</th>
+    <th>Venue</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td>BERTScore: Evaluating Text Generation with BERT</td>
+    <td>General Evaluation</td>
+    <td><a href="https://openreview.net/forum?id=SkeHuCVFDr"> 
+      <img src="https://img.shields.io/badge/PDF-ICLR 2020-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/Tiiiger/bert_score">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+  </tr>
+  <tr>
+    <td>BARTScore: Evaluating Generated Text as Text Generation</td>
+    <td>General Evaluation</td>
+    <td><a href="https://proceedings.neurips.cc/paper/2021/hash/e4d2b6e6fdeca3e60e0f1a62fee3d9dd-Abstract.html"> 
+      <img src="https://img.shields.io/badge/PDF-NeurIPS 2021-10868" alt="PDF Badge">
+      </a></td>
+    <td> <a href="https://github.com/neulab/BARTScore">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a></td>
+  </tr>
+<tr>
+    <td>Semantic Uncertainty: Linguistic Invariances for Uncertainty Estimation in Natural Language Generation</td>
+    <td>Uncertainty</td>
+    <td><a href="https://arxiv.org/abs/2302.09664"> 
+      <img src="https://img.shields.io/badge/PDF-ICLR 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td> <a href="https://github.com/lorenzkuhn/semantic_uncertainty">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a></td>
+  </tr>
+</table>
 
 ### Domain Adaptation <a name="domain-adaptation"></a>
 
