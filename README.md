@@ -289,11 +289,42 @@ What is the Role of Small Models in the LLM Era: A Survey
 </tr>
 </table>
 
-- Model Cascading [\[32\]](#32)
-- Model Routing [\[33\]](#33)
-
 #### Speculative Decoding <a name="speculative-decoding"></a>
-- [\[31\]](#31)
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Topic</th>
+    <th>Venue</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td>Fast Inference from Transformers via Speculative Decoding</td>
+    <td>Speculative Decoding</td>
+    <td><a href="https://arxiv.org/abs/2211.17192"> 
+      <img src="https://img.shields.io/badge/PDF-ICML 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/feifeibear/LLMSpeculativeSampling">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+  </tr>
+  <tr>
+    <td>Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding</td>
+    <td>Speculative Decoding</td>
+    <td><a href="https://arxiv.org/abs/2401.07851"> 
+      <img src="https://img.shields.io/badge/PDF-ACL 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td> <a href="https://github.com/hemingkx/SpeculativeDecodingPapers">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a></td>
+  </tr>
+<tr>
+    <td>Accelerating Large Language Model Decoding with Speculative Sampling</td>
+    <td>Speculative Decoding</td>
+    <td><a href="https://arxiv.org/abs/2302.01318"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td> <a href="https://github.com/hemingkx/SpeculativeDecodingPapers">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a></td>
+  </tr>
+</table>
 
 ### Evaluating LLMs <a name="evaluating-llms"></a>
 
