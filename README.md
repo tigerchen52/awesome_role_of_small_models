@@ -750,8 +750,57 @@ with Less Training Data and Smaller Model Sizes</td>
 </table>
 
 #### White-box Distillation: <a name="white-box-distillation"></a>
-- Logits [\[6\]](#6)
-- Intermediate Features [\[7\]](#7)
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Topic</th>
+    <th>Venue</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td>DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter</td>
+    <td>Logits</td>
+    <td><a href="https://arxiv.org/abs/1910.01108"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2019-10868" alt="PDF Badge">
+      </a></td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>ZeroQuant: Efficient and Affordable Post-Training Quantization for Large-Scale Transformers</td>
+    <td>Intermediate Features</td>
+    <td><a href="https://arxiv.org/abs/2206.01861"> 
+      <img src="https://img.shields.io/badge/PDF-NeurIPS 2022-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/microsoft/DeepSpeed">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a></td>
+  </tr>
+  <tr>
+    <td>Less is More: Task-aware Layer-wise Distillation for Language Model Compression</td>
+    <td>Intermediate Features</td>
+    <td><a href="https://arxiv.org/abs/2210.01351"> 
+      <img src="https://img.shields.io/badge/PDF-ICML 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/cliang1453/task-aware-distillation">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a></td>
+  </tr>
+  <tr>
+    <td>MiniLLM: Knowledge Distillation of Large Language Models</td>
+    <td>Intermediate Features</td>
+    <td><a href="https://arxiv.org/abs/2306.08543"> 
+      <img src="https://img.shields.io/badge/PDF-ICLR 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/microsoft/LMOps/tree/main/minillm">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a></td>
+  </tr>
+  <tr>
+    <td>LLM-QAT: Data-Free Quantization Aware Training for Large Language Models</td>
+    <td>Intermediate Features</td>
+    <td><a href="https://arxiv.org/abs/2305.17888"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td></td>
+  </tr>
+</table>
 
 ### Data Synthesis <a name="data-synthesis"></a>
 
