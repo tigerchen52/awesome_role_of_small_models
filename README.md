@@ -133,6 +133,42 @@ What is the Role of Small Models in the LLM Era: A Survey
 </table>
 
 ### Weak-to-Strong Paradigm <a name="weak-to-strong-paradigm"></a>
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Topic</th>
+    <th>Venue</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td>Weak-to-Strong Generalization: Eliciting Strong Capabilities With Weak Supervision</td>
+    <td>Weak-to-Strong</td>
+    <td><a href="https://arxiv.org/abs/2312.09390"> 
+      <img src="https://img.shields.io/badge/PDF-ICML 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/openai/weak-to-strong">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+  </tr>
+<tr>
+    <td>Weak-to-Strong Search: Align Large Language Models via Searching over Small Language Models</td>
+    <td>Weak-to-Strong</td>
+    <td><a href="https://arxiv.org/abs/2405.19262"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/ZHZisZZ/weak-to-strong-search">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+  </tr>
+<tr>
+    <td>Co-Supervised Learning: Improving Weak-to-Strong Generalization with Hierarchical Mixture of Experts</td>
+    <td>Weak-to-Strong</td>
+    <td><a href="https://arxiv.org/abs/2402.15505"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/yuejiangliu/csl">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+</tr>
+</table>
+
 
 #### Using weaker (smaller) models to align stronger (larger) models <a name="using-weaker-smaller-models-to-align-stronger-larger-models"></a>
 - [\[34\]](#34)
