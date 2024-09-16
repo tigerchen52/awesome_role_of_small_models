@@ -511,7 +511,7 @@ What is the Role of Small Models in the LLM Era: A Survey
 
 ### Prompt-based Reasoning <a name="prompt-based-reasoning"></a>
 
-#### Using SMs to augment prompts for LLMs: <a name="using-sms-to-augment-prompts-for-llms"></a>
+#### Using SMs to augment prompts for LLMs <a name="using-sms-to-augment-prompts-for-llms"></a>
 <table>
   <tr>
     <th>Title</th>
