@@ -958,9 +958,13 @@ with Less Training Data and Smaller Model Sizes</td>
 
 # Competition <a name="competition"></a>
 
+<details>
+
 ## Computation-constrained Environment <a name="computation-constrained-environment"></a>
 ## Task-specific Environment <a name="task-specific-environment"></a>
 ## Interpretability-required Environment <a name="interpretability-required-environment"></a>
+
+</details>
 
 ## Citation
 
