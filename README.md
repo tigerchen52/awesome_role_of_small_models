@@ -660,8 +660,76 @@ What is the Role of Small Models in the LLM Era: A Survey
 ### Knowledge Distillation <a name="knowledge-distillation"></a>
 
 #### Black-box Distillation: <a name="black-box-distillation"></a>
-- Chain-Of-Thought Distillation [\[8\]](#8)
-- Instruction Following Distillation [\[9\]](#9)
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Topic</th>
+    <th>Venue</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td>Explanations from Large Language Models Make Small Reasoners Better</td>
+    <td>Chain-Of-Thought Distillation</td>
+    <td><a href="https://arxiv.org/abs/2210.06726"> 
+      <img src="https://img.shields.io/badge/PDF-ACL 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>Distilling Step-by-Step! Outperforming Larger Language Models
+with Less Training Data and Smaller Model Sizes</td>
+    <td>Chain-Of-Thought Distillation</td>
+    <td><a href="https://arxiv.org/abs/2305.02301"> 
+      <img src="https://img.shields.io/badge/PDF-ACL 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/google-research/distilling-step-by-step">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a></td>
+  </tr>
+  <tr>
+    <td>Distilling Reasoning Capabilities into Smaller Language Models</td>
+    <td>Chain-Of-Thought Distillation</td>
+    <td><a href="https://aclanthology.org/2023.findings-acl.441/"> 
+      <img src="https://img.shields.io/badge/PDF-ACL 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/kumar-shridhar/Distiiling-LM">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+  </tr>
+  <tr>
+    <td>Teaching Small Language Models to Reason</td>
+    <td>Chain-Of-Thought Distillation</td>
+    <td><a href="https://aclanthology.org/2023.acl-short.151/"> 
+      <img src="https://img.shields.io/badge/PDF-ACL 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>Symbolic Chain-of-Thought Distillation: Small Models Can Also "Think" Step-by-Step
+</td>
+    <td>Chain-Of-Thought Distillation</td>
+    <td><a href="https://arxiv.org/abs/2306.14050"> 
+      <img src="https://img.shields.io/badge/PDF-ACL 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/liunian-harold-li/scotd">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a>  </td>
+  </tr>
+  <tr>
+    <td>Specializing Smaller Language Models towards Multi-Step Reasoning</td>
+    <td>Chain-Of-Thought Distillation</td>
+    <td><a href="https://arxiv.org/abs/2301.12726"> 
+      <img src="https://img.shields.io/badge/PDF-ICML 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td>TinyLLM: Learning a Small Student from Multiple Large Language Models
+</td>
+    <td>Chain-Of-Thought Distillation</td>
+    <td><a href="https://arxiv.org/abs/2402.04616"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td> </td>
+  </tr>
+</table>
 
 #### White-box Distillation: <a name="white-box-distillation"></a>
 - Logits [\[6\]](#6)
