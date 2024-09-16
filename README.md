@@ -512,10 +512,67 @@ What is the Role of Small Models in the LLM Era: A Survey
 ### Prompt-based Reasoning <a name="prompt-based-reasoning"></a>
 
 #### Using SMs to augment prompts for LLMs: <a name="using-sms-to-augment-prompts-for-llms"></a>
-- Retrieving Prompts [\[16\]](#16)
-- Decomposing Complex Problems [\[17\]](#17)
-- Generating Pseudo Labels [\[18\]](#18)
-- Feedback [\[19\]](#19)
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Topic</th>
+    <th>Venue</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td>UPRISE: Universal Prompt Retrieval for Improving Zero-Shot Evaluation</td>
+    <td>Retrieving Prompts</td>
+    <td><a href="https://aclanthology.org/2023.emnlp-main.758/"> 
+      <img src="https://img.shields.io/badge/PDF-EMNLP 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td> <a href="https://github.com/microsoft/LMOps">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+  </tr>
+  <tr>
+    <td>Small Language Models Fine-tuned to Coordinate Larger Language Models improve Complex Reasoning</td>
+    <td>Decomposing Complex Problems</td>
+    <td><a href="https://aclanthology.org/2023.emnlp-main.225/"> 
+      <img src="https://img.shields.io/badge/PDF-EMNLP 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td> <a href="https://github.com/LCS2-IIITD/DaSLaM">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a></td>
+  </tr>
+  <tr>
+    <td>Small Models are Valuable Plug-ins for Large Language Models</td>
+    <td>Generating Pseudo Labels</td>
+    <td><a href="https://arxiv.org/abs/2305.08848"> 
+      <img src="https://img.shields.io/badge/PDF-ACL 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td> <a href="https://github.com/JetRunner/SuperICL">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a></td>
+  </tr>
+  <tr>
+    <td>DocPrompting: Generating Code by Retrieving the Docs </td>
+    <td>Codes</td>
+    <td><a href="https://openreview.net/forum?id=ZTCxT2t2Ru"> 
+      <img src="https://img.shields.io/badge/PDF-ICLR 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/shuyanzhou/docprompting">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+  </tr>
+  <tr>
+    <td>Toolformer: Language Models Can Teach Themselves to Use Tools </td>
+    <td>Tools</td>
+    <td><a href="https://openreview.net/forum?id=Yacmpz84TH"> 
+      <img src="https://img.shields.io/badge/PDF-NeurIPS 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/conceptofmind/toolformer">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+  </tr>
+  <tr>
+    <td>Retrieval-Augmented Multimodal Language Modeling</td>
+    <td>Images</td>
+    <td><a href="https://arxiv.org/abs/2211.12561"> 
+      <img src="https://img.shields.io/badge/PDF-ICML 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td> </td>
+  </tr>
+</table>
 
 ### Deficiency Repair <a name="deficiency-repair"></a>
 
