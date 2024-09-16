@@ -385,7 +385,40 @@ What is the Role of Small Models in the LLM Era: A Survey
 ### Domain Adaptation <a name="domain-adaptation"></a>
 
 #### Using domain-specific SMs to adjust token probability of LLMs at decoding time <a name="using-domain-specific-sms-to-adjust-token-probability-of-llms-at-decoding-time"></a>
-
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Topic</th>
+    <th>Venue</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td>CombLM: Adapting Black-Box Language Models through Small Fine-Tuned Models</td>
+    <td>White-box Domain Adaptation</td>
+    <td><a href="https://aclanthology.org/2023.emnlp-main.180"> 
+      <img src="https://img.shields.io/badge/PDF-EMNLP 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Inference-Time Policy Adapters (IPA): Tailoring Extreme-Scale LMs without Fine-tuning</td>
+    <td>White-box Domain Adaptation</td>
+    <td><a href="https://aclanthology.org/2023.emnlp-main.424/"> 
+      <img src="https://img.shields.io/badge/PDF-EMNLP 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td> <a href="https://github.com/GXimingLu/IPA">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a></td>
+  </tr>
+  <tr>
+    <td>Tuning Language Models by Proxy</td>
+    <td>White-box Domain Adaptation</td>
+    <td><a href="https://arxiv.org/abs/2401.08565"> 
+      <img src="https://img.shields.io/badge/PDF-COLM 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td> <a href="https://github.com/alisawuffles/proxy-tuning">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a></td>
+  </tr>
+</table>
 
 #### Using domain-specific SMs to generate knowledge for LLMs at reasoning time <a name="using-domain-specific-sms-to-generate-knowledge-for-llms-at-reasoning-time"></a>
 <table>
