@@ -577,8 +577,40 @@ What is the Role of Small Models in the LLM Era: A Survey
 ### Deficiency Repair <a name="deficiency-repair"></a>
 
 #### Developing SM plugins to repair deficiencies: <a name="developing-sm-plugins-to-repair-deficiencies"></a>
-- Hallucinations [\[14\]](#14)
-- Out-Of-Vocabulary Words [\[15\]](#15)
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Topic</th>
+    <th>Venue</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td>Small Agent Can Also Rock! Empowering Small Language Models as Hallucination Detector</td>
+    <td>Hallucinations</td>
+    <td><a href="https://arxiv.org/abs/2406.11277/"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td> <a href="https://github.com/RUCAIBox/HaluAgent">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+  </tr>
+  <tr>
+    <td>Reconfidencing LLMs from the Grouping Loss Perspective</td>
+    <td>Hallucinations</td>
+    <td><a href="https://arxiv.org/abs/2402.04957"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Imputing Out-of-Vocabulary Embeddings with LOVE Makes LanguageModels Robust with Little Cost</td>
+    <td>Out-Of-Vocabulary Words</td>
+    <td><a href="https://arxiv.org/abs/2305.08848"> 
+      <img src="https://img.shields.io/badge/PDF-ACL 2022-10868" alt="PDF Badge">
+      </a></td>
+    <td> <a href="https://github.com/tigerchen52/LOVE">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a></td>
+  </tr>
+</table>
 
 #### Contrasting LLMs and SMs for better generations: <a name="contrasting-llms-and-sms-for-better-generations"></a>
 - Reducing Repeated Texts [\[10\]](#10)
