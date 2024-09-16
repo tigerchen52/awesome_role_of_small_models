@@ -55,15 +55,16 @@ What is the Role of Small Models in the LLM Era: A Survey
       - [Data Augmentation](#data-augmentation)
       - [Training Data Generation](#training-data-generation)
 - [Competition](#competition)
-  - [Computation-constrained Environment](#)
-  - [Task-specific Environment](#)
-  - [Interpretability-required Environment](#)
+  - [Computation-constrained Environment](#computation-constrained-environment)
+  - [Task-specific Environment](#task-specific-environment)
+  - [Interpretability-required Environment](#interpretability-required-environment)
+
 
 # Collaboration <a name="collaboration"></a>
 
-## SMs Enhance LLMs <a name="sms-enhance-llms"></a>
 <details>
-
+    
+## SMs Enhance LLMs <a name="sms-enhance-llms"></a>
 
 ### Data Curation <a name="data-curation"></a>
 
@@ -955,7 +956,11 @@ with Less Training Data and Smaller Model Sizes</td>
 </details>
 
 
+# Competition <a name="competition"></a>
 
+## Computation-constrained Environment <a name="computation-constrained-environment"></a>
+## Task-specific Environment <a name="task-specific-environment"></a>
+## Interpretability-required Environment <a name="interpretability-required-environment"></a>
 
 ## Citation
 
