@@ -729,6 +729,24 @@ with Less Training Data and Smaller Model Sizes</td>
       </a></td>
     <td> </td>
   </tr>
+  <tr>
+    <td>Lion: Adversarial Distillation of Proprietary Large Language Models</td>
+    <td>Instruction Following Distillation</td>
+    <td><a href="https://arxiv.org/abs/2305.12870"> 
+      <img src="https://img.shields.io/badge/PDF-EMNLP 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td> <a href="https://github.com/YJiangcm/Lion">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a></td>
+  </tr>
+      <tr>
+    <td>Selective Reflection-Tuning: Student-Selected Data Recycling for LLM Instruction-Tuning</td>
+    <td>Instruction Following Distillation</td>
+    <td><a href="https://arxiv.org/abs/2402.10110"> 
+      <img src="https://img.shields.io/badge/PDF-ACL 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td> <a href="https://github.com/tianyi-lab/Reflection_Tuning">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+  </tr>
 </table>
 
 #### White-box Distillation: <a name="white-box-distillation"></a>
