@@ -71,7 +71,7 @@ What is the Role of Small Models in the LLM Era: A Survey
   <tr>
     <th>Title</th>
     <th>Topic</th>
-    <th>Link</th>
+    <th>Venue</th>
     <th>Code</th>
   </tr>
   <tr>
@@ -90,6 +90,15 @@ What is the Role of Small Models in the LLM Era: A Survey
       <img src="https://img.shields.io/badge/PDF-arXiv 2023-10868" alt="PDF Badge">
       </a></td>
     <td> </td>
+  </tr>
+  <tr>
+    <td>DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining</td>
+    <td>Data Reweighting</td>
+    <td><a href="https://arxiv.org/abs/2305.10429"> 
+      <img src="https://img.shields.io/badge/PDF-NeurIPS 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/sangmichaelxie/doremi">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
   </tr>
 </table>
 
