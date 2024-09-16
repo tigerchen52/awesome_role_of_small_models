@@ -67,8 +67,32 @@ What is the Role of Small Models in the LLM Era: A Survey
 ### Data Curation <a name="data-curation"></a>
 
 #### Curating pre-training data: <a name="curating-pre-training-data"></a>
-- Data Selection [\[36\]](#36)
-- Data Reweighting [\[37\]](#37)
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Topic</th>
+    <th>Link</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td>Data selection for language models via importance resampling</td>
+    <td>Data Selection</td>
+    <td><a href="https://arxiv.org/abs/2302.03169"> 
+      <img src="https://img.shields.io/badge/PDF-NeurIPS 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/p-lambda/dsir">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+  </tr>
+  <tr>
+    <td>When Less is More: Investigating Data Pruning for Pretraining LLMs at Scale</td>
+    <td>Data Selection</td>
+    <td><a href="https://arxiv.org/abs/2309.04564"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td> </td>
+  </tr>
+</table>
+
 
 #### Curating Instruction-tuning Data <a name="curating-instruction-tuning-data"></a>
 - [\[35\]](#35)
