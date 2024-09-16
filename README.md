@@ -167,6 +167,34 @@ What is the Role of Small Models in the LLM Era: A Survey
     <td><a href="https://github.com/yuejiangliu/csl">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
 </tr>
+<tr>
+    <td>Improving Weak-to-Strong Generalization with Reliability-Aware Alignment</td>
+    <td>Weak-to-Strong</td>
+    <td><a href="https://arxiv.org/abs/2406.19032"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/Irenehere/ReliableAlignment">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+</tr>
+<tr>
+    <td>Aligner: Efficient Alignment by Learning to Correct</td>
+    <td>Weak-to-Strong</td>
+    <td><a href="https://arxiv.org/abs/2402.02416"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/Aligner2024/aligner">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+</tr>
+<tr>
+    <td>Vision Superalignment: Weak-to-Strong Generalization for Vision Foundation Models
+</td>
+    <td>Weak-to-Strong</td>
+    <td><a href="https://arxiv.org/abs/2402.03749"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/ggjy/vision_weak_to_strong">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+</tr>
 </table>
 
 
