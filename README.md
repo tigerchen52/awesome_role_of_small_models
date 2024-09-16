@@ -386,10 +386,34 @@ What is the Role of Small Models in the LLM Era: A Survey
 ### Domain Adaptation <a name="domain-adaptation"></a>
 
 #### Using domain-specific SMs to adjust token probability of LLMs at decoding time <a name="using-domain-specific-sms-to-adjust-token-probability-of-llms-at-decoding-time"></a>
-- [\[26\]](#26)
+
 
 #### Using domain-specific SMs to generate knowledge for LLMs at reasoning time <a name="using-domain-specific-sms-to-generate-knowledge-for-llms-at-reasoning-time"></a>
-- [\[27\]](#27)
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Topic</th>
+    <th>Venue</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td>Knowledge Card: Filling LLMs' Knowledge Gaps with Plug-in Specialized Language Models</td>
+    <td>Black-box Domain Adaptation</td>
+    <td><a href="https://arxiv.org/abs/2305.09955"> 
+      <img src="https://img.shields.io/badge/PDF-ICLR 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/BunsenFeng/Knowledge_Card">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+  </tr>
+  <tr>
+    <td>BLADE: Enhancing Black-box Large Language Models with Small Domain-Specific Models</td>
+    <td>Black-box Domain Adaptation</td>
+    <td><a href="https://arxiv.org/abs/2403.18365"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td> </td>
+  </tr>
+</table>
 
 ### Retrieval Augmented Generation <a name="retrieval-augmented-generation"></a>
 
