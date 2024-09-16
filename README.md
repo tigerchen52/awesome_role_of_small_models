@@ -547,30 +547,30 @@ What is the Role of Small Models in the LLM Era: A Survey
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a></td>
   </tr>
   <tr>
-    <td>DocPrompting: Generating Code by Retrieving the Docs </td>
-    <td>Codes</td>
-    <td><a href="https://openreview.net/forum?id=ZTCxT2t2Ru"> 
-      <img src="https://img.shields.io/badge/PDF-ICLR 2023-10868" alt="PDF Badge">
-      </a></td>
-    <td><a href="https://github.com/shuyanzhou/docprompting">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
-  </tr>
-  <tr>
-    <td>Toolformer: Language Models Can Teach Themselves to Use Tools </td>
-    <td>Tools</td>
-    <td><a href="https://openreview.net/forum?id=Yacmpz84TH"> 
-      <img src="https://img.shields.io/badge/PDF-NeurIPS 2023-10868" alt="PDF Badge">
-      </a></td>
-    <td><a href="https://github.com/conceptofmind/toolformer">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
-  </tr>
-  <tr>
-    <td>Retrieval-Augmented Multimodal Language Modeling</td>
-    <td>Images</td>
-    <td><a href="https://arxiv.org/abs/2211.12561"> 
-      <img src="https://img.shields.io/badge/PDF-ICML 2023-10868" alt="PDF Badge">
+    <td>Can Small Language Models Help Large Language Models Reason Better?: LM-Guided Chain-of-Thought</td>
+    <td>Generating Pseudo Labels</td>
+    <td><a href="https://aclanthology.org/2024.lrec-main.252/"> 
+      <img src="https://img.shields.io/badge/PDF-COLING 2024-10868" alt="PDF Badge">
       </a></td>
     <td> </td>
+  </tr>
+  <tr>
+    <td>CaLM: Contrasting Large and Small Language Models to Verify Grounded Generation
+</td>
+    <td>Generating Feedback</td>
+    <td><a href="https://arxiv.org/abs/2406.05365"> 
+      <img src="https://img.shields.io/badge/PDF-ACL 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>Small Language Models Improve Giants by Rewriting Their Outputs</td>
+    <td>Generating Feedback</td>
+    <td><a href="https://aclanthology.org/2024.eacl-long.165/"> 
+      <img src="https://img.shields.io/badge/PDF-EACL 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/GeorgeVern/lmcor">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
   </tr>
 </table>
 
