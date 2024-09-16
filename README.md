@@ -66,7 +66,7 @@ What is the Role of Small Models in the LLM Era: A Survey
 
 ### Data Curation <a name="data-curation"></a>
 
-#### Curating pre-training data: <a name="curating-pre-training-data"></a>
+#### Curating pre-training data <a name="curating-pre-training-data"></a>
 <table>
   <tr>
     <th>Title</th>
@@ -98,13 +98,39 @@ What is the Role of Small Models in the LLM Era: A Survey
       <img src="https://img.shields.io/badge/PDF-NeurIPS 2023-10868" alt="PDF Badge">
       </a></td>
     <td><a href="https://github.com/sangmichaelxie/doremi">
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"> 
+   </a> </td>
   </tr>
 </table>
 
 
 #### Curating Instruction-tuning Data <a name="curating-instruction-tuning-data"></a>
-- [\[35\]](#35)
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Topic</th>
+    <th>Venue</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td>MoDS: Model-oriented Data Selection for Instruction Tuning</td>
+    <td>Data Selection</td>
+    <td><a href="https://arxiv.org/abs/2311.15653"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/CASIA-LM/MoDS">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+  </tr>
+  <tr>
+    <td>LESS: Selecting Influential Data for Targeted Instruction Tuning</td>
+    <td>Data Selection</td>
+    <td><a href="https://arxiv.org/abs/2402.04333"> 
+      <img src="https://img.shields.io/badge/PDF-ICML 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td> <a href="https://github.com/princeton-nlp/LESS">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a></td>
+  </tr>
+</table>
 
 ### Weak-to-Strong Paradigm <a name="weak-to-strong-paradigm"></a>
 
