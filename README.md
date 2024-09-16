@@ -450,12 +450,47 @@ What is the Role of Small Models in the LLM Era: A Survey
 ### Retrieval Augmented Generation <a name="retrieval-augmented-generation"></a>
 
 #### Using SMs to retrieve knowledge for enhancing generations: <a name="using-sms-to-retrieve-knowledge-for-enhancing-generations"></a>
-- Documents [\[20\]](#20)
-- Knowledge Bases [\[21\]](#21)
-- Tables [\[22\]](#22)
-- Codes [\[23\]](#23)
-- Tools [\[24\]](#24)
-- Images [\[25\]](#25)
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Topic</th>
+    <th>Venue</th>
+    <th>Code</th>
+  </tr>
+  <tr>
+    <td>Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks</td>
+    <td>Documents</td>
+    <td><a href="https://proceedings.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html"> 
+      <img src="https://img.shields.io/badge/PDF-NeurIPS 2020-10868" alt="PDF Badge">
+      </a></td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>KnowledGPT: Enhancing Large Language Models with Retrieval and Storage Access on Knowledge Bases</td>
+    <td>Knowledge Bases</td>
+    <td><a href="https://arxiv.org/abs/2308.11761"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>End-to-End Table Question Answering via Retrieval-Augmented Generation</td>
+    <td>Tables</td>
+    <td><a href="https://arxiv.org/abs/2203.16714"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2022-10868" alt="PDF Badge">
+      </a></td>
+    <td> </td>
+  </tr>
+  <tr>
+    <td>DocPrompting: Generating Code by Retrieving the Docs </td>
+    <td>Codes</td>
+    <td><a href="https://openreview.net/forum?id=ZTCxT2t2Ru"> 
+      <img src="https://img.shields.io/badge/PDF-ICLR 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/shuyanzhou/docprompting">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+  </tr>
+</table>
 
 ### Prompt-based Reasoning <a name="prompt-based-reasoning"></a>
 
