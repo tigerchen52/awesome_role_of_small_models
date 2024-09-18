@@ -1,4 +1,5 @@
 # The Role of Small Models
+[![Awesome](https://awesome.re/badge.svg)]() 
 [![PDF](https://img.shields.io/badge/PDF-2409.06857-green)](https://arxiv.org/abs/2409.06857)
 ![GitHub License](https://img.shields.io/github/license/tigerchen52/role_of_small_models)
 ![](https://img.shields.io/badge/PRs-Welcome-red) 
