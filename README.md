@@ -286,6 +286,24 @@ What is the Role of Small Models in the LLM Era: A Survey
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
 </tr>
 <tr>
+<tr>
+<td>FrugalML: How to use ML Prediction APIs more accurately and cheaply</td>
+    <td>Model Cascading</td>
+    <td><a href="https://proceedings.neurips.cc/paper/2020/hash/789ba2ae4d335e8a2ad283a3f7effced-Abstract.html"> 
+      <img src="https://img.shields.io/badge/PDF-NeuroIPS 2020-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/lchen001/FrugalML">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+</tr>
+<tr>
+<td>Model Cascading: Towards Jointly Improving Efficiency and Accuracy of NLP Systems</td>
+    <td>Model Cascading</td>
+    <td><a href="https://aclanthology.org/2022.emnlp-main.756/"> 
+      <img src="https://img.shields.io/badge/PDF-EMNLP 2022-10868" alt="PDF Badge">
+      </a></td>
+    <td> </td>
+</tr>
+<tr>
 <td>Routing to the Expert: Efficient Reward-guided Ensemble of Large Language Models</td>
     <td>Model Routing</td>
     <td><a href="https://aclanthology.org/2024.naacl-long.109/"> 
