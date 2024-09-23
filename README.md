@@ -93,6 +93,16 @@ What is the Role of Small Models in the LLM Era: A Survey
       </a></td>
     <td> </td>
   </tr>
+ <tr>
+    <td>CCNet: Extracting High Quality Monolingual Datasets from Web Crawl Data</td>
+    <td>Data Reweighting</td>
+    <td><a href="https://aclanthology.org/2020.lrec-1.494/"> 
+      <img src="https://img.shields.io/badge/PDF-LREC 2020-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/facebookresearch/cc_net">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"> 
+   </a> </td>
+  </tr>
   <tr>
     <td>DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining</td>
     <td>Data Reweighting</td>
