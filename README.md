@@ -95,11 +95,21 @@ What is the Role of Small Models in the LLM Era: A Survey
   </tr>
  <tr>
     <td>CCNet: Extracting High Quality Monolingual Datasets from Web Crawl Data</td>
-    <td>Data Reweighting</td>
+    <td>Data Selection</td>
     <td><a href="https://aclanthology.org/2020.lrec-1.494/"> 
       <img src="https://img.shields.io/badge/PDF-LREC 2020-10868" alt="PDF Badge">
       </a></td>
     <td><a href="https://github.com/facebookresearch/cc_net">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"> 
+   </a> </td>
+  </tr>
+ <tr>
+    <td>QuRating: Selecting High-Quality Data for Training Language Models</td>
+    <td>Data Selection</td>
+    <td><a href="https://arxiv.org/abs/2402.09739"> 
+      <img src="https://img.shields.io/badge/PDF-ICML 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/princeton-nlp/QuRating">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"> 
    </a> </td>
   </tr>
@@ -140,6 +150,15 @@ What is the Role of Small Models in the LLM Era: A Survey
       <img src="https://img.shields.io/badge/PDF-ICML 2024-10868" alt="PDF Badge">
       </a></td>
     <td> <a href="https://github.com/princeton-nlp/LESS">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a></td>
+  </tr>
+<tr>
+    <td>What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning</td>
+    <td>Data Selection</td>
+    <td><a href="https://openreview.net/forum?id=BTKAeLqLMw"> 
+      <img src="https://img.shields.io/badge/PDF-ICLR 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td> <a href="https://github.com/hkust-nlp/deita">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a></td>
   </tr>
 </table>
