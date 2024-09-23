@@ -290,7 +290,7 @@ What is the Role of Small Models in the LLM Era: A Survey
 <td>FrugalML: How to use ML Prediction APIs more accurately and cheaply</td>
     <td>Model Cascading</td>
     <td><a href="https://proceedings.neurips.cc/paper/2020/hash/789ba2ae4d335e8a2ad283a3f7effced-Abstract.html"> 
-      <img src="https://img.shields.io/badge/PDF-NeuroIPS 2020-10868" alt="PDF Badge">
+      <img src="https://img.shields.io/badge/PDF-NeurIPS 2020-10868" alt="PDF Badge">
       </a></td>
     <td><a href="https://github.com/lchen001/FrugalML">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
@@ -344,6 +344,46 @@ What is the Role of Small Models in the LLM Era: A Survey
       </a></td>
     <td><a href="https://github.com/epfl-dlab/forc">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+</tr>
+<tr>
+    <td>Hybrid LLM: Cost-Efficient and Quality-Aware Query Routing
+</td>
+    <td>Model Routing</td>
+    <td><a href="https://arxiv.org/abs/2404.14618"> 
+      <img src="https://img.shields.io/badge/PDF-ICLR 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/m365-core/hybrid_llm_routing">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+</tr>
+<tr>
+    <td>LLM-BLENDER: Ensembling Large Language Models
+with Pairwise Ranking and Generative Fusion
+</td>
+    <td>Model Routing</td>
+    <td><a href="https://arxiv.org/abs/2306.02561"> 
+      <img src="https://img.shields.io/badge/PDF-ACL 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/yuchenlin/LLM-Blender">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+</tr>
+<tr>
+    <td>RouterBench: A Benchmark for Multi-LLM Routing System
+</td>
+    <td>Model Routing</td>
+    <td><a href="https://arxiv.org/abs/2403.12031"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/withmartian/routerbench">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+</tr>
+<tr>
+    <td>Large Language Model Routing with Benchmark Datasets
+</td>
+    <td>Model Routing</td>
+    <td><a href="https://arxiv.org/abs/2309.15789"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2023-10868" alt="PDF Badge">
+      </a></td>
+    <td> </td>
 </tr>
 </table>
 
