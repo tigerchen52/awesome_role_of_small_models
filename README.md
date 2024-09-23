@@ -228,6 +228,15 @@ What is the Role of Small Models in the LLM Era: A Survey
     <td><a href="https://github.com/ggjy/vision_weak_to_strong">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
 </tr>
+<tr>
+    <td>Theoretical Analysis of Weak-to-Strong Generalization
+</td>
+    <td>Weak-to-Strong</td>
+    <td><a href="https://arxiv.org/abs/2405.16043"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2024-10868" alt="PDF Badge">
+      </a></td>
+    <td></td>
+</tr>
 </table>
 
 
