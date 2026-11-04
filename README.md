@@ -385,6 +385,16 @@ with Pairwise Ranking and Generative Fusion
       </a></td>
     <td> </td>
 </tr>
+<tr>
+    <td>Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution
+</td>
+    <td>Model Routing</td>
+    <td><a href="https://arxiv.org/abs/2610.17816"> 
+      <img src="https://img.shields.io/badge/PDF-arXiv 2026-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/OpenBMB/EC2-Bench">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+</tr>
 </table>
 
 #### Speculative Decoding <a name="speculative-decoding"></a>
