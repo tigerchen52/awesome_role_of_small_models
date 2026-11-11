@@ -237,6 +237,16 @@ What is the Role of Small Models in the LLM Era: A Survey
       </a></td>
     <td></td>
 </tr>
+<tr>
+    <td>Knowledge Cascade: Reverse Knowledge Distillation on Nonparametric Multivariate Functional Estimation
+</td>
+    <td>Reverse KD</td>
+    <td><a href="https://jmlr.org/papers/v27/23-0359.html"> 
+      <img src="https://img.shields.io/badge/PDF-JMLR 2026-10868" alt="PDF Badge">
+      </a></td>
+    <td><a href="https://github.com/LuyangFang/KCas">
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white" alt="PDF Badge"></a> </td>
+</tr>
 </table>
 
 
